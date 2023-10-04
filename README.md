@@ -18,7 +18,7 @@ Finetune loss: 0.06
 # Comparision with GPT2
   GPT2 is a text generation AI and is not meant for question answering purposes. The following comparison is meant to show how good the fine tuned model is, in comparison to the base model.
 
-1. Who is the king of the jungle?
+**1. Who is the king of the jungle?**
 ```
 GPT2: Who is the king of the jungle? And where is the king?'
 
@@ -36,7 +36,7 @@ Answer: Lion is the king of the jungle.
 
 ```
 
-2. What is AI?
+**2. What is AI?**
 ```
 GPT2: What is AI? Can it be done? How does it function? These are all incredibly important questions, and they've been answered in great detail, but if we want to get to what really matters, we can't just assume the answer in order
 
@@ -48,7 +48,7 @@ Answer: AI is a branch of computer science that focuses on creating intelligent 
 
 ```
 
-3. What is the difference between acid and a base?
+**3. What is the difference between acid and a base?**
 ```
 GPT2: What is the difference between an acid and a base?
 
